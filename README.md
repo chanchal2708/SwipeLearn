@@ -16,10 +16,14 @@ SwipeLearn is a modern web application that helps users discover and get recomme
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/home.png)
-![Course Suggestions](screenshots/suggestions.png)
-![stats](screenshots/suggestions.png)
-![Profile](screenshots/suggestions.png)
+![Home Page](![Screenshot 2025-05-18 201844](https://github.com/user-attachments/assets/3ee0a280-47ac-446a-8cfb-ba5ed536e346)
+)
+![Course Suggestions](![Screenshot (114)](https://github.com/user-attachments/assets/4ff13454-e1bd-4e3a-8740-b2b4aaeba114)
+)
+![stats](![Screenshot (115)](https://github.com/user-attachments/assets/61f5cf4a-efcf-4a46-9d74-7bac3f4fa8d4)
+)
+![Profile])(![Screenshot (116)](https://github.com/user-attachments/assets/ac92a996-30e9-4535-99be-987c5cd995fb)
+)
 
 ---
 
